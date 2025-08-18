@@ -1,0 +1,2 @@
+# HostWebDid
+Hosted web dids. 
