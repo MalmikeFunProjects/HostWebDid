@@ -1,0 +1,24 @@
+{
+  "@context": [
+    "https://www.w3.org/ns/did/v1",
+    "https://w3id.org/security/v2",
+    "https://w3id.org/security/suites/secp256k1recovery-2020/v2"
+  ],
+  "assertionMethod": [
+    "did:web:MalmikeFunProjects.github.io:HostWebDid:device-1#0474b8ba7b2a9bcc7118d3ebb093606012507ca1ffbc1ad0e083ef694fe0ea4ea1b86692ae0b19b006bdd0bbd56a7d8653b74d343881f08cc90c9c5dd3d48a1316"
+  ],
+  "authentication": [
+    "did:web:MalmikeFunProjects.github.io:HostWebDid:device-1#0474b8ba7b2a9bcc7118d3ebb093606012507ca1ffbc1ad0e083ef694fe0ea4ea1b86692ae0b19b006bdd0bbd56a7d8653b74d343881f08cc90c9c5dd3d48a1316"
+  ],
+  "id": "did:web:MalmikeFunProjects.github.io:HostWebDid:device-1",
+  "keyAgreement": [],
+  "service": [],
+  "verificationMethod": [
+    {
+      "controller": "did:web:MalmikeFunProjects.github.io:HostWebDid:device-1",
+      "id": "did:web:MalmikeFunProjects.github.io:HostWebDid:device-1#0474b8ba7b2a9bcc7118d3ebb093606012507ca1ffbc1ad0e083ef694fe0ea4ea1b86692ae0b19b006bdd0bbd56a7d8653b74d343881f08cc90c9c5dd3d48a1316",
+      "publicKeyHex": "0474b8ba7b2a9bcc7118d3ebb093606012507ca1ffbc1ad0e083ef694fe0ea4ea1b86692ae0b19b006bdd0bbd56a7d8653b74d343881f08cc90c9c5dd3d48a1316",
+      "type": "EcdsaSecp256k1VerificationKey2019"
+    }
+  ]
+}
