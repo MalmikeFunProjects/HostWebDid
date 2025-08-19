@@ -1,0 +1,25 @@
+{
+  "@context": [
+    "https://www.w3.org/ns/did/v1",
+    "https://w3id.org/security/suites/ed25519-2018/v1"
+  ],
+  "assertionMethod": [
+    "did:web:MalmikeFunProjects.github.io:HostWebDid:BINANCE-ETHUSDT#ef70412a72c611e4abff3f49f3b0b4d78a3238702ccec4dff55aada86caab464"
+  ],
+  "authentication": [
+    "did:web:MalmikeFunProjects.github.io:HostWebDid:BINANCE-ETHUSDT#ef70412a72c611e4abff3f49f3b0b4d78a3238702ccec4dff55aada86caab464"
+  ],
+  "id": "did:web:MalmikeFunProjects.github.io:HostWebDid:BINANCE-ETHUSDT",
+  "keyAgreement": [
+    "did:web:MalmikeFunProjects.github.io:HostWebDid:BINANCE-ETHUSDT#ef70412a72c611e4abff3f49f3b0b4d78a3238702ccec4dff55aada86caab464"
+  ],
+  "service": [],
+  "verificationMethod": [
+    {
+      "controller": "did:web:MalmikeFunProjects.github.io:HostWebDid:BINANCE-ETHUSDT",
+      "id": "did:web:MalmikeFunProjects.github.io:HostWebDid:BINANCE-ETHUSDT#ef70412a72c611e4abff3f49f3b0b4d78a3238702ccec4dff55aada86caab464",
+      "publicKeyBase58": "H7fifESdxYywoMmqnPofWWWSoVLRevXY93J9nrbLzDab",
+      "type": "Ed25519VerificationKey2018"
+    }
+  ]
+}
