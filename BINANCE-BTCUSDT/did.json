@@ -5,10 +5,10 @@
     "https://w3id.org/security/suites/secp256k1recovery-2020/v2"
   ],
   "assertionMethod": [
-    "did:web:MalmikeFunProjects.github.io:HostWebDid:BINANCE-BTCUSDT#045acfcd657bd96f3ca492846c2a6044043a664744a344e8fcae29a157f715e869654eb0f88339d609caf7c5645ead16a51d544f2625affba35630ba08d6a544b6"
+    "did:web:MalmikeFunProjects.github.io:HostWebDid:BINANCE-BTCUSDT#04f960e65da2414e2416ace197ef54d288eb49e0db7c1b94217ca2c7a40d6fb6d8f046fc7480c507f61bfd93da1d55b6971f4bf4ba84584db6be58ebca2c603d13"
   ],
   "authentication": [
-    "did:web:MalmikeFunProjects.github.io:HostWebDid:BINANCE-BTCUSDT#045acfcd657bd96f3ca492846c2a6044043a664744a344e8fcae29a157f715e869654eb0f88339d609caf7c5645ead16a51d544f2625affba35630ba08d6a544b6"
+    "did:web:MalmikeFunProjects.github.io:HostWebDid:BINANCE-BTCUSDT#04f960e65da2414e2416ace197ef54d288eb49e0db7c1b94217ca2c7a40d6fb6d8f046fc7480c507f61bfd93da1d55b6971f4bf4ba84584db6be58ebca2c603d13"
   ],
   "id": "did:web:MalmikeFunProjects.github.io:HostWebDid:BINANCE-BTCUSDT",
   "keyAgreement": [],
@@ -16,8 +16,8 @@
   "verificationMethod": [
     {
       "controller": "did:web:MalmikeFunProjects.github.io:HostWebDid:BINANCE-BTCUSDT",
-      "id": "did:web:MalmikeFunProjects.github.io:HostWebDid:BINANCE-BTCUSDT#045acfcd657bd96f3ca492846c2a6044043a664744a344e8fcae29a157f715e869654eb0f88339d609caf7c5645ead16a51d544f2625affba35630ba08d6a544b6",
-      "publicKeyHex": "045acfcd657bd96f3ca492846c2a6044043a664744a344e8fcae29a157f715e869654eb0f88339d609caf7c5645ead16a51d544f2625affba35630ba08d6a544b6",
+      "id": "did:web:MalmikeFunProjects.github.io:HostWebDid:BINANCE-BTCUSDT#04f960e65da2414e2416ace197ef54d288eb49e0db7c1b94217ca2c7a40d6fb6d8f046fc7480c507f61bfd93da1d55b6971f4bf4ba84584db6be58ebca2c603d13",
+      "publicKeyHex": "04f960e65da2414e2416ace197ef54d288eb49e0db7c1b94217ca2c7a40d6fb6d8f046fc7480c507f61bfd93da1d55b6971f4bf4ba84584db6be58ebca2c603d13",
       "type": "EcdsaSecp256k1VerificationKey2019"
     }
   ]
