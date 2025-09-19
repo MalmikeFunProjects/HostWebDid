@@ -1,0 +1,11 @@
+{
+  "@context": [
+    "https://www.w3.org/ns/did/v1"
+  ],
+  "assertionMethod": [],
+  "authentication": [],
+  "id": "did:web:MalmikeFunProjects.github.io:HostWebDid:Test_1",
+  "keyAgreement": [],
+  "service": [],
+  "verificationMethod": []
+}
