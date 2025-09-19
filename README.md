@@ -1,8 +1,15 @@
 # Host DID Web
 
 A Go service that **fetches and publishes `did:web` documents** into a GitHub Pages repository using **batched Git commits & pushes**. Designed to sit in your SSI toolchain and host DID documents reliably with minimal setup.
-[Source files used when uploading files to Host Project](https://github.com/MalmikeFunProjects/SSIIntegratedDataPipeline/blob/main/host_did_web/README.md)
-[Host Project to host did:web documents on github pages](https://github.com/MalmikeFunProjects/HostWebDid.git)
+
+---
+
+## Associated Projects
+
+- [Source project used when uploading files to Host Project](https://github.com/MalmikeFunProjects/SSIIntegratedDataPipeline/blob/main/host_did_web)
+
+- [Host Project to host did:web documents on github pages](https://github.com/MalmikeFunProjects/HostWebDid.git): configure which GitHub repository to use by updating the `GH_REPO` value in the `sample.env` file.
+
 ---
 
 ## Features
