@@ -1,24 +1,25 @@
 {
   "@context": [
     "https://www.w3.org/ns/did/v1",
-    "https://w3id.org/security/v2",
-    "https://w3id.org/security/suites/secp256k1recovery-2020/v2"
+    "https://w3id.org/security/suites/ed25519-2018/v1"
   ],
   "assertionMethod": [
-    "did:web:MalmikeFunProjects.github.io:HostWebDid:BINANCE-BTCUSDC#04b0e8c110b7e159ba55af1c639e22c6790987968ce81c087cd3ec91a38470e6472f69b1db07ff74f8a4aadf4811e972d4dad8063712a6bf5417b3104a26982a3a"
+    "did:web:MalmikeFunProjects.github.io:HostWebDid:BINANCE-BTCUSDC#e393f1e40c7f9a6dfb568709bce6a1f12f003c31d26bad8df89520fddbd90a31"
   ],
   "authentication": [
-    "did:web:MalmikeFunProjects.github.io:HostWebDid:BINANCE-BTCUSDC#04b0e8c110b7e159ba55af1c639e22c6790987968ce81c087cd3ec91a38470e6472f69b1db07ff74f8a4aadf4811e972d4dad8063712a6bf5417b3104a26982a3a"
+    "did:web:MalmikeFunProjects.github.io:HostWebDid:BINANCE-BTCUSDC#e393f1e40c7f9a6dfb568709bce6a1f12f003c31d26bad8df89520fddbd90a31"
   ],
   "id": "did:web:MalmikeFunProjects.github.io:HostWebDid:BINANCE-BTCUSDC",
-  "keyAgreement": [],
+  "keyAgreement": [
+    "did:web:MalmikeFunProjects.github.io:HostWebDid:BINANCE-BTCUSDC#e393f1e40c7f9a6dfb568709bce6a1f12f003c31d26bad8df89520fddbd90a31"
+  ],
   "service": [],
   "verificationMethod": [
     {
       "controller": "did:web:MalmikeFunProjects.github.io:HostWebDid:BINANCE-BTCUSDC",
-      "id": "did:web:MalmikeFunProjects.github.io:HostWebDid:BINANCE-BTCUSDC#04b0e8c110b7e159ba55af1c639e22c6790987968ce81c087cd3ec91a38470e6472f69b1db07ff74f8a4aadf4811e972d4dad8063712a6bf5417b3104a26982a3a",
-      "publicKeyHex": "04b0e8c110b7e159ba55af1c639e22c6790987968ce81c087cd3ec91a38470e6472f69b1db07ff74f8a4aadf4811e972d4dad8063712a6bf5417b3104a26982a3a",
-      "type": "EcdsaSecp256k1VerificationKey2019"
+      "id": "did:web:MalmikeFunProjects.github.io:HostWebDid:BINANCE-BTCUSDC#e393f1e40c7f9a6dfb568709bce6a1f12f003c31d26bad8df89520fddbd90a31",
+      "publicKeyBase58": "GKNPeyYgFuyC2QT7BNvmd4mVbLJEQghZ5GtXTRQrCwLc",
+      "type": "Ed25519VerificationKey2018"
     }
   ]
 }
